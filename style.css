@@ -19,5 +19,6 @@ p {
 }
 
 .logo {
-  float: left;  
+  float: left;
+  margin: 5px;  
 }
