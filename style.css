@@ -19,17 +19,3 @@ p {
   float: left;
   margin: 5px;  
 }
-
-#ie, #firefox, #chrome {
-    width: 300px;
-    float: left;
-}
-
-#navbar{
-    list-style-type: none;
-}
-
-li {
-    display: inline;
-    margin-right: 50px;
-}
